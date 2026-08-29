@@ -5,3 +5,4 @@
 Folder Unit_1 contains assignments for U1:
     - 1_ppt3 -> PPT 3
     - 2_ppt6 -> PPT 6
+    - 3_ppt7 -> PPT 7
