@@ -1,4 +1,7 @@
-Worksheet files for VDUI 2026
-SRN: PES2UG24CS311
+# Worksheet files for VDUI 2026
+## SRN: PES2UG24CS311
+## Name: Neeraj R Rugi
+
 Folder Unit_1 contains assignments for U1:
     - 1_ppt3 -> PPT 3
+    - 2_ppt6 -> PPT 6
